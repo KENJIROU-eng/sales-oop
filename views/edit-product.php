@@ -47,7 +47,7 @@ $_SESSION['product_id'] = $_GET['id'];
         <div class="row h-100 m-0">
             <div class="card w-50 my-auto mx-auto">
                 <div class="card-header bg-white border-0 py-3">
-                    <h1 class="text-center text-danger">
+                    <h1 class="text-center text-info">
                         <i class="fa-solid fa-pen"></i>
                         Edit Product
                     </h1>
